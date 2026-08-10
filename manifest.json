@@ -4,8 +4,8 @@
 "description": "برنامه پیگیری عادت‌ها و ساختن چله‌های شخصی",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#030712",
-  "theme_color": "#00eaff",
+"background_color": "#0b2b22",
+"theme_color": "#0b2b22",
   "orientation": "portrait",
   "icons": [
     {
